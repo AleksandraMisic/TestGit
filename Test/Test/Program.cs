@@ -14,6 +14,7 @@ namespace Test
             Console.WriteLine("Hi Aleksandra.");
 			Console.WriteLine("Hi Sasha Jade.");
             Console.WriteLine("Hi Aleksandra.");
+            Console.WriteLine("Hi Milos.");
         }
     }
 }
