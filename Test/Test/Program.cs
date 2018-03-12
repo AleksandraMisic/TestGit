@@ -12,7 +12,7 @@ namespace Test
         {
             Console.WriteLine("Hi Aleksandra.");
             Console.WriteLine("Hi Aleksandra.");
-			Console.WriteLine("Hi Sasha.");
+			Console.WriteLine("Hi Sasha Jade.");
         }
     }
 }
